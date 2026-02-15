@@ -3,10 +3,10 @@ import React from 'react'
 const App = () => {
   return (
     <>
-    <div id='dad'>
+    <div id='first'>
       <h1>Hii Ritesh singh</h1>
     </div>
-    <div id="chacha">hello chacha Ji</div>
+    <div id="second">hello everyon</div>
    
 
     </>
