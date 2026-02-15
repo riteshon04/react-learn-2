@@ -6,7 +6,7 @@ const App = () => {
     <div id='dad'>
       <h1>Hii Ritesh singh</h1>
     </div>
-    <div id="chacha">hello chacha</div>
+    <div id="chacha">hello chacha Ji</div>
    
 
     </>
